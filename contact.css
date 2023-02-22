@@ -1,0 +1,54 @@
+#background{
+	width: 1100px;
+	margin-left: 75px;
+}
+
+form{
+	position: absolute;
+	margin-top: 20%;
+	font-size: 45px;
+	transform: translate(-60%,-50%);
+}
+
+#overlay{
+	background-color:  rgb(170, 200, 255); */baby blue */
+	border-radius: 5%;
+	opacity: 0.98;
+        margin:auto;
+ 	 width: 100%;
+ 	 border: 3px solid  rgb(0, 0, 255);
+ 	 padding: 10px;
+
+}
+
+overlay.input.button /* this is the send email button*/
+{
+	width: 12em; /* seems to use the select value above*/
+	height: 4em;
+	text-align: center;
+	background-color:rgb(170, 200, 255); /*baby blue */
+	border: none;
+       margin:auto;
+}
+
+article span, label{
+	font-size: 40%;
+	color: rgb(0, 0, 255);
+	margin-top: 1.5em;
+}
+
+.button{
+	/*margin-left: 2em;*/
+	margin 0:auto;
+}
+
+#radio label{
+	font-size: 40%;
+	margin: 0em 0.3em;
+}
+
+.rate label{
+	margin: 0em;
+}
+
+
