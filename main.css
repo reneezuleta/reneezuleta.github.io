@@ -64,6 +64,8 @@ h2,h3, a{
     font-size: 25px;
     font-weight: normal;  /* used to be lighter */
     text-align: center;
+    margin-left: 2%
+    margin-right: 2%
 }
 
 /*Subheading CSS:*/
@@ -91,6 +93,7 @@ h2 span{
     float: left;
     width: 20%;
     margin-left: 1%;
+    margin-right: 1%;
 }
 
 /*Positions content of page*/
@@ -124,30 +127,6 @@ article.page_article{
 	border: lightblue solid 3px;
 }
 
-/* Footer Stylings: */
-footer{
-    width: 50%;
-    display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#footer_content{
-	text-align: center;
-    padding: .1em;
-    font-size: 20px;
-    color: rgb(241, 121, 143);
-    font-weight: bold;
-}
-
-#footer_content img{
-	width: 3%;
-	height: auto;
-}
-
-#footer_content a{
-	text-decoration: none;
-}
 
 /*****************************************************/
 
