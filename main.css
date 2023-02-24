@@ -142,7 +142,8 @@ article.page_article{
 #nav_menu ul{
     margin: 0;
     padding: 0;
-    width: 200px;
+    /*width: 200px;*/
+    Width:20%
     list-style: none;
 }
 
@@ -249,19 +250,27 @@ form
 	margin-left: 1em;
 }
 
+select, input {
+    font-size: 48px;
 
+}
+ }
 
-input, select /* this applies to contacts button and choose3
+input, select /* this applies to contacts button and chooser
 {
 	margin-left: 1em;
-	width: 12em;  /*changingthis works */
-	height: 3em;  /*changing this has no effect*/
+       margin-right:2em;
+	width: 15m;  /*changingthis works */
+	/*height:3em;  hanging this has no effect*/
+ 
 }
+
+
 
 input.button /* this is the send email button*/
 {
-	width: 12em; /* seems to use the select value above*/
-	height: 4em;
+	/*width: 12em; *//* seems to use the select value above*/
+	/*height: 4em;*/
 	text-align: center;
 	background-color:rgb(170, 200, 255); /*baby blue */
 	border: none;
