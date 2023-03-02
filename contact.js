@@ -8,7 +8,7 @@ var processEntries = function() {
 	var topic = ($("topic").value);
 	/*document.contact.submit();*/ 
         var body = ""
-        window.location.assign("mailto:reneezuleta@live.com?Subject=" + topic + "&body=" );
+        window.location.assign("mailto:reneezuleta@abirdseyeview.net?Subject=" + topic + "&body=" );
         
 	
 };
