@@ -40,6 +40,7 @@
     border-radius: var(--border-radius);
     padding: 1.25rem 1.75rem;
     font-size: var(--fz-sm);
+
     font-family: var(--font-mono);
     line-height: 1;
     text-decoration: none;
@@ -336,3 +337,16 @@ br.form_br
 {
     color: #e67300;
 }
+
+
+
+
+a:link, a:visited {
+	font-weight: normal;
+	color: rgb(0, 0, 255);
+}
+a:hover, a:active {
+	font-weight: normal;
+	color: rgb(0, 200, 200);
+}
+

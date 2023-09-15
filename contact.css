@@ -6,7 +6,7 @@
 form{
 	position: absolute;
 	margin-top: 20%;
-	font-size: 48px;
+	font-size: 25px;
 	transform: translate(-60%,-50%);
 }
 
@@ -40,6 +40,7 @@ article span, label{
 .button{
 	/*margin-left: 2em;*/
 	margin 0:auto;
+	font-size: 15px;
 }
 
 #radio label{
